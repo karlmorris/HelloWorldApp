@@ -14,8 +14,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         int total = 6 + 7;
 
-        Log.d(TAG, String.valueOf(total));
-
 
     }
 }
